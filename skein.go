@@ -33,7 +33,7 @@
 // Skein512 for most applications. Skein256 should be used for small devices
 // like smartcards. Skein1024 is the ultra-conservative variant providing a level of
 // security (mostly) not needed.
-package skein // import "github.com/aead/skein"
+package skein // import "github.com/pedroalbanese/skein"
 
 import "hash"
 
