@@ -9,7 +9,7 @@ package skein1024
 import (
 	"hash"
 
-	"github.com/aead/skein"
+	"github.com/pedroalbanese/skein"
 )
 
 // Sum512 computes the 512 bit Skein1024 checksum (or MAC if key is set) of msg

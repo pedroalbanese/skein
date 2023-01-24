@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/aead/skein"
+	"github.com/pedroalbanese/skein"
 )
 
 func fromHex(s string) []byte {

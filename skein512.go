@@ -4,7 +4,7 @@
 
 package skein
 
-import "github.com/aead/skein/threefish"
+import "github.com/pedroalbanese/skein/threefish"
 
 type hashFunc struct {
 	hashsize      int
